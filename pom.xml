@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>travel</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <modules>
+    <module>travel-demo</module>
+    <module>travel-auth</module>
+    <module>travel-member</module>
+    <module>travel-article</module>
+    <module>travel-product</module>
+    <module>travel-order</module>
+    <module>travel-ware</module>
+    <module>travel-cart</module>
+    <module>travel-coupon</module>
+    <module>travel-seckill</module>
+    <module>travel-search</module>
+  </modules>
+</project>
