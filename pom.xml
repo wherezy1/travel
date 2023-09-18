@@ -15,7 +15,6 @@
 
     <modules>
     <module>travel-demo</module>
-    <module>travel-auth</module>
     <module>travel-member</module>
     <module>travel-article</module>
     <module>travel-product</module>
@@ -25,5 +24,6 @@
     <module>travel-coupon</module>
     <module>travel-seckill</module>
     <module>travel-search</module>
+    <module>travel-auth</module>
   </modules>
 </project>
